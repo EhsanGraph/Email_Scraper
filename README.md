@@ -1,3 +1,3 @@
 # Email_Scraper
-pip install requests<br>
+<b>pip install requests</b><br>
 scarp email from site
