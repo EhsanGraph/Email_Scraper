@@ -45,6 +45,6 @@ def scrape_website_emails(url):
     return all_emails
 
 # Usage
-website_url = 'https://ekom21.de'
+website_url = 'Site Address'
 emails = scrape_website_emails(website_url)
 print(emails)
